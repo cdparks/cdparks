@@ -1,3 +1,5 @@
-### 🍓💙❤️💛
+### Helloo
 
-Friendly Haskell boy at @freckle, [he/him](http://pronoun.is/he/him)
+Friendly Haskell boy at [@freckle](https://github.com/freckle), [he/him](https://pronoun.is/he/him)
+
+ 🍓💙❤️💛
