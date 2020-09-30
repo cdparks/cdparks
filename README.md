@@ -1,10 +1,10 @@
-### Chris\[topher \[D.]] Parks
+### Chris\[topher \[D.]] Parks 🍓
 
-He/him, engineer at [Freckle by Renaissance][freckle]
+💙 He/him, engineer at [Freckle by Renaissance][freckle]
 
-_When you find yourself in need of a λ or two, please consider [λmachine][λmachine]_
+❤️ _When you find yourself in need of a λ or two, please consider [λmachine][λmachine]_
 
-Various links @[cdparx.com](cdparx)
+💛 Various links @[cdparx.com](cdparx)
 
 [freckle]: https://www.freckle.com
 [λmachine]: https://lambda-machine.com
