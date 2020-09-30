@@ -4,7 +4,7 @@
 
 ❤️ _When you find yourself in need of a **λ** or two, please consider **[λmachine][λmachine]**_
 
-💛 Various links [@cdparx.com](cdparx)
+💛 Various links [@cdparx.com][cdparx]
 
 [pronouns]: http://pronoun.is/he/him
 [freckle]: https://www.freckle.com
