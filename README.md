@@ -8,8 +8,8 @@
 
 💛 Explore the untyped lambda calculus at **[λmachine][λmachine]**
 
-[pronouns]: http://pronoun.is/he/him
+[pronouns]: https://pronoun.is/he
 [freckle]: https://www.freckle.com
 [λmachine]: https://lambda-machine.com
-[cdparx]: https://cdparx.com/
+[cdparx]: https://cdparx.com
 [resume]: https://cdparx.com/pages/resume.html
