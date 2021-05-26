@@ -4,9 +4,9 @@
 
 💙 [He/him][pronouns], engineer at [**Freckle by Renaissance**][freckle]
 
-❤️ _Explore the untyped lambda calculus at **[λmachine][λmachine]**_
+❤️ [Résumé][resume], various links [@cdparx.com][cdparx]
 
-💛 [Résumé][resume], various links [@cdparx.com][cdparx]
+💛 Explore the untyped lambda calculus at **[λmachine][λmachine]**
 
 [pronouns]: http://pronoun.is/he/him
 [freckle]: https://www.freckle.com
