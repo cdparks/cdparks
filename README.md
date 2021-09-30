@@ -4,7 +4,7 @@
 
 💙 [He/him][pronouns], engineer at [**Hasura**][hasura]
 
-❤️ [Résumé][resume], various links [@cdparx.com][cdparx]
+❤️ [Résumé][resume], various links [**@cdparx.com**][cdparx]
 
 💛 Explore the untyped lambda calculus at **[λmachine][λmachine]**
 
